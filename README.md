@@ -15,22 +15,23 @@ Below are the app screenshots showcasing various features and designs:
 
 <table>
   <tr>
-    <td><img src="./screenshot/splash.png.png" width="200" height="400" alt="Welcome Screen" /></td>
-    <td><img src="./screenshot/login.png" width="200" height="400" alt="Signup Screen" /></td>
-    <td><img src="./screenshot/signup.png" width="200" height="400" alt="Login Screen" /></td>
-    <td><img src="./screenshot/" width="200" height="400" alt="OTP Screen" /></td>
+    <td><img src="./screenshot/splash.png.png" width="200" height="400" alt="Splash Screen" /></td>
+<td><img src="./screenshot/welcome.png" width="200" height="400" alt="Welcome Screen" /></td>
+    <td><img src="./screenshot/login.png" width="200" height="400" alt="Login Screen" /></td>
+    <td><img src="./screenshot/signup.png" width="200" height="400" alt="Signup Screen" /></td>
+
   </tr>
   <tr>
     <td><img src="./screenshot/home.png" width="200" height="400" alt="Home Screen" /></td>
-    <td><img src="./screenshot/checkin.png" width="200" height="400" alt="Drawer Screen" /></td>
-    <td><img src="./screenshot/medicine.png" width="200" height="400" alt="Categories Screen" /></td>
-    <td><img src="./screenshot/progress.png" width="200" height="400" alt="History Screen" /></td>
+    <td><img src="./screenshot/checkin.png" width="200" height="400" alt="Checkin Screen" /></td>
+    <td><img src="./screenshot/medicine.png" width="200" height="400" alt="Medicine Screen" /></td>
+    <td><img src="./screenshot/progress.png" width="200" height="400" alt="Progress Screen" /></td>
   </tr>
   <tr>
-    <td><img src="./screenshot/profile.png" width="200" height="400" alt="Points Screen" /></td>
-    <td><img src="./screenshot/preview.png" width="200" height="400" alt="Category Vouchers Screen" /></td>
-    <td><img src="./screenshot/videosave.png" width="200" height="400" alt="Profile Screen" /></td>
-    <td><img src="./screenshot/success.png.png" width="200" height="400" alt="Profile Screen" /></td>
+    <td><img src="./screenshot/profile.png" width="200" height="400" alt="Profile Screen" /></td>
+    <td><img src="./screenshot/preview.png" width="200" height="400" alt="Preview Vouchers Screen" /></td>
+    <td><img src="./screenshot/videosave.png" width="200" height="400" alt="Videosave Screen" /></td>
+    <td><img src="./screenshot/success.png.png" width="200" height="400" alt="success Screen" /></td>
   </tr>
 </table>
 
