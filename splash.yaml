@@ -1,0 +1,17 @@
+flutter_native_splash:
+  color: "#4A4E65"  # Set background color to the desired color for all themes
+  image: assets/splash.png  # Use splash.png as the image for all themes
+  branding: assets/splash.png  # Optional: Use branding image if desired (if different from main image)
+
+  color_dark: "#4A4E65"  # Set the same color for dark theme
+  image_dark: assets/splash.png  # Use the same splash.png for dark theme
+  branding_dark: assets/splash.png  # Optional: Branding for dark theme (if different from main image)
+
+  android_12:
+    image: assets/splash.png  # Use splash.png specifically for Android 12
+    icon_background_color: "#4A4E65"  # Background color for Android 12 light theme icon
+    image_dark: assets/splash.png  # Use splash.png for dark theme in Android 12
+    icon_background_color_dark: "#4A4E65"  # Background color for Android 12 dark theme icon
+
+  # Disable web splash screen (if web is set up in your project)
+  web: false
