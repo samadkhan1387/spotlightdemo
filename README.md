@@ -15,7 +15,7 @@ Below are the app screenshots showcasing various features and designs:
 
 <table>
   <tr>
-    <td><img src="./screenshot/splash.png.png" width="200" height="400" alt="Splash Screen" /></td>
+    <td><img src="./screenshot/splash.png" width="200" height="400" alt="Splash Screen" /></td>
 <td><img src="./screenshot/welcome.png" width="200" height="400" alt="Welcome Screen" /></td>
     <td><img src="./screenshot/login.png" width="200" height="400" alt="Login Screen" /></td>
     <td><img src="./screenshot/signup.png" width="200" height="400" alt="Signup Screen" /></td>
@@ -31,7 +31,7 @@ Below are the app screenshots showcasing various features and designs:
     <td><img src="./screenshot/profile.png" width="200" height="400" alt="Profile Screen" /></td>
     <td><img src="./screenshot/preview.png" width="200" height="400" alt="Preview Vouchers Screen" /></td>
     <td><img src="./screenshot/videosave.png" width="200" height="400" alt="Videosave Screen" /></td>
-    <td><img src="./screenshot/success.png.png" width="200" height="400" alt="success Screen" /></td>
+    <td><img src="./screenshot/success.png" width="200" height="400" alt="success Screen" /></td>
   </tr>
 </table>
 
